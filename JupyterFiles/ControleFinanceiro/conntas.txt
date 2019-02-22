@@ -1,0 +1,10 @@
+Note book | 10 | 220.00 
+Creche | -1 | 200.00
+Casa | -1 | 100.00
+Udemy | 2 | 50.00
+Bolsa | 3 | 75.00
+Casa | -1 | 100.00
+Faculdade | -1 | 380.00
+Controle Ps4 | -1 | 28.00
+Man.Carro | 3 | 293.00
+Celular | 3 | 180.00

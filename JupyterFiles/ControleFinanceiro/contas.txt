@@ -1,9 +1,9 @@
-Note book | 10 | 220.00 
 Creche | -1 | 200.00
-Casa | -1 | 100.00
-Udemy | 2 | 50.00
-Bolsa | 3 | 75.00
 Casa | -1 | 100.00
 Faculdade | -1 | 380.00
 Controle Ps4 | -1 | 28.00
-Man.Carro | 3 | 293.00
+Man.Carro | 3 | 293.00 | 032019 
+Celular | 3 | 180.00 | 102019 
+Gasolina | -1 | 200.00 
+Gasolina | -1 | 50.00 | 032019
+Crédito | -1 | 40.00 
